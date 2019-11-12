@@ -2,7 +2,7 @@
 /target/
 /apache-tomcat-9.0.27/
 !.mvn/wrapper/maven-wrapper.jar
-.txt
+/upload/
 
 ### STS ###
 .apt_generated

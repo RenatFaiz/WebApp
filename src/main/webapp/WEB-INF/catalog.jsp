@@ -44,11 +44,11 @@
                 </div>
                 <div class="form-group">
                     <label for="description">Auto Description</label>
-                    <textarea type="text" id="description" name="description" class="form-control" required></textarea>
+                    <textarea id="description" name="description" class="form-control" required></textarea>
                 </div>
 
                 <div class="custom-file">
-                    <input type="file" id="file" name="file" class="custom-file-input" accept="image/*" required>
+                    <input type="file" id="file" name="image" class="custom-file-input" accept="image/*" required>
                     <label class="custom-file-label" for="file">Choose image...</label>
                 </div>
                 <button type="submit" class="btn btn-primary mt-3">Create</button>
